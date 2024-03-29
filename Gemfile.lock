@@ -30,6 +30,7 @@ PLATFORMS
 
 DEPENDENCIES
   activesupport (~> 7.1)
+  minitest (~> 5.14)
 
 RUBY VERSION
    ruby 3.2.1p31
